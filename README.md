@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **chavanabhishek527@gmail.com**
 
-- ⚡ Fun fact **French fries were not made in France**
+- ⚡ Fun fact **"French fries were not made in France"**
 
 
 
