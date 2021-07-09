@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 💬 Ask me about **HTML, CSS and Machine learning**
+- 💬 Ask me about **HTML, CSS and Machine learning (Still learning)**
 
 - 📫 How to reach me **chavanabhishek527@gmail.com**
 
