@@ -11,6 +11,7 @@
 </p>
 
 <hr>
+
 - 🌱 I’m currently learning **Backend**
 
 - 💬 Ask me about **HTML, CSS and Machine learning**
