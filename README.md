@@ -12,7 +12,7 @@
 
 <hr>
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Backend, flutter and JavaScript**
 
 - 📫 How to reach me **chavanabhishek527@gmail.com**
 
