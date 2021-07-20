@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I am Abhishek Chavan :D</h1>
 <h3 align="center">I am a web/app-developer and machine learning enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekchavannn&label=Profile%20views&color=01da6a&style=flat-square" alt="abhishekchavannn" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekchavannn&label=Profile%20Views&color=0187da&style=flat" alt="abhishekchavannn" /> </p>
 <h3 align="left">Contact links 📱:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhishekchavannn123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishekchavannn123" height="30" width="40" /></a>
