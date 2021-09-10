@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I am Abhishek Chavan :D</h1>
-<h3 align="center">I am a web/app-developer, machine learning enthusiast and a materials engineering student!</h3>
+<h3 align="center">I am learning Full-stack, and various other stuff!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekchavannn&label=Profile%20Views&color=0187da&style=flat" alt="abhishekchavannn" /> </p>
 <h3 align="left">Contact links 📱:</h3>
