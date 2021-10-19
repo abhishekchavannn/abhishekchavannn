@@ -15,11 +15,11 @@
 
 <hr>
 
-- 🌱 I’m currently learning **Backend, flutter and JavaScript**
+- 🌱 I’m currently learning **NodeJs, MongoDB and AWS :D**
 
 - 📫 How to reach me **chavanabhishek527@gmail.com**
 
-- ⚡ Fun fact **"French fries were not made in France"**
+
 
 
 <hr>
