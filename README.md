@@ -31,4 +31,4 @@
 <hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekchavannn&theme=dark" alt="abhishekchavannn" /></p>
 <hr>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekchavannn&show_icons=true&locale=en&layout=compact" alt="abhishekchavannn" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekchavannn&show_icons=true&theme=dark&locale=en&layout=compact" alt="abhishekchavannn" /></p>
