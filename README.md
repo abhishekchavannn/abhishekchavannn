@@ -15,7 +15,7 @@
 
 <hr>
 
-- 🌱 I’m currently learning **NodeJs, MongoDB and AWS :D**
+- 🌱 I’m currently learning **MERN**
 
 - 📫 How to reach me **chavanabhishek527@gmail.com**
 
