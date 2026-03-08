@@ -38,15 +38,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekchavannn&show_icons=true&theme=dark&locale=en&layout=compact" alt="abhishekchavannn" />
 </p>
 
----
 
 ## 🏆 GitHub Trophies
+
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abhishekchavannn&theme=onedark" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=abhishekchavannn&theme=onedark&row=1&column=6&margin-w=15&margin-h=15"/>
 </p>
----
 
 ## 📈 Contribution Activity Graph
 
