@@ -2,7 +2,7 @@
 <h3 align="center">A full-stack developer juggling IDEs</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekchavannn&label=Profile%20Views&color=0187da&style=flat" alt="abhishekchavannn" /> </p>
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wvron73tsa42fehj0edcdek26&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
 <h3 align="left">Contact links:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhishekchavannn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishekchavannn123" height="30" width="40" /></a>
